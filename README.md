@@ -1,2 +1,2 @@
 # algo-practice
-The solution of algorithmic problems from online contests
+The solution of algorithmic problems from online platforms
